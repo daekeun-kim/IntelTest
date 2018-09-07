@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "intel-test-client-side-solution",
+    "id": "a89f5bd2-e231-433f-bec8-83653bb80273",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/intel-test.sppkg"
+  }
+}
